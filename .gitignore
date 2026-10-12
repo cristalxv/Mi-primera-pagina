@@ -1,0 +1,10 @@
+# Archivos del sistema operativo 
+Thums.db
+.DS_Store
+
+# configuracion local del editor 
+.vscode/
+
+# Archivos temporales 
+*.tmp
+*.log
