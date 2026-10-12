@@ -11,4 +11,5 @@ h1 {
 button {
     padding: 10px 15px;
     cursor: pointer;
+    background-color: #f0f4f8;
 }
